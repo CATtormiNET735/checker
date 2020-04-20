@@ -1,4 +1,4 @@
-# cc-checker
+# Checker
 Es un checker de tarjetas de credito hecho en python3 por comandator estudios.
 El metodo de checkeo es simple va a una pagina de donaciones y pone datos falso a esepcion de los datos de las tarjetas para proteger tu identidad,
 despues simplemente el script se fija si acepto el pago o lo rechaso y si lo acepta tarjeta viva si lo rechasa tarjeta muerta
