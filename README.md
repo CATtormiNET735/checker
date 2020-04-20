@@ -20,6 +20,7 @@ despues simplemente el script se fija si acepto el pago o lo rechaso y si lo ace
 *- cd checker*
 
 - chmod +x *
+
 *python3 checker.py*
 
 
