@@ -37,7 +37,7 @@ se tiene que poner el numero de la tarjeta a checkear el mes de 2 digitos y el a
 
 Para Ejecutarlo es simple solo pongan en la terminal
 
-*python3 checker.py*
+python3 checker.py
 
 y listo 
 
