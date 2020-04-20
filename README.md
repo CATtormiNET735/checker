@@ -17,9 +17,10 @@ despues simplemente el script se fija si acepto el pago o lo rechaso y si lo ace
 
 *- git clone https://github.com/comandator/cc-checker/*
 
-*- cd cc-checker*
+*- cd checker*
 
 - chmod +x *
+*python3 checker.py*
 
 
 # como usar?
